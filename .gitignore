@@ -4,6 +4,8 @@
 *.ap_
 *.aab
 
+utils/Constants.kt
+
 # Files for the ART/Dalvik VM
 *.dex
 
