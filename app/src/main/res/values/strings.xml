@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cinema Now</string>
+    <string name="text_use_my_location">Use GPS</string>
+    <string name="text_help_zip_code">Enter your ZIP code</string>
+    <string name="toast_text_validate_zip_code">Enter a valid 5 digit US ZIP code</string>
+    <string name="text_cd_movie_poster">Movie poster</string>
+    <string name="text_cb_add_to_your_watchlist">Add to your watchlist</string>
+    <string name="text_cb_in_your_watchlist">In your watchlist</string>
+    <string name="text_cd_poster_thumbnail">Movie thumbnail image</string>
+    <string name="text_cd_movie_backdrop">Movie backdrop image</string>
+    <string name="text_btn_get_directions">Get Directions</string>
+    <string name="text_zip_search">Search</string>
+    <string name="theaters_near_me">Theaters Near Me</string>
+    <string name="check_out_movies_now_playing_in_theaters">Check out movies now playing in theaters.</string>
+    <string name="find_a_movie_theater_in_your_area">Find a movie theater in your area.</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="tv_cd_movie_film_icon">Movie film icon</string>
+    <string name="watch_list_menu_text">My Watchlist</string>
+    <string name="theater_search_menu_text">Theater Search</string>
+    <string name="now_playing_menu_text">Now Playing</string>
+</resources>
