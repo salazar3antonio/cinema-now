@@ -82,3 +82,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+app/.idea/modules.xml
+app/.idea/misc.xml
+app/.idea/gradle.xml
